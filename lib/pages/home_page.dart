@@ -27,7 +27,7 @@ class HomPage extends StatelessWidget {
                         CircleAvatar(),
                         SizedBox(width: 10,),
                         Text(
-                          'Joel Prince',
+                          'Godwill OUSSOU',
                           style: TextStyle(
                             fontSize: 18,
                           ),
